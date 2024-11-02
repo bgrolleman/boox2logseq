@@ -1,0 +1,9 @@
+Reading Notes | <<System for Writing_ How an Unconventional Approach to Note-Makily, and Write Constantly - A Zettelkasten Primer, A (Doto, Bob)>>Bob Doto
+Introduction
+2024-10-27 07:56  |  Page No.: 14
+The structure of a Luhmann-style zettelkasten is not predetermined. It emerges out of the relationships the note maker establishes between ideas recorded in the notes. As relationships develop, areas of the zettelkasten swell.
+【Annotation】much like graphs
+-------------------
+2024-10-27 07:58  |  Page No.: 16
+Figure 1. Each aspect of the system reinforces and is reinforced by the others.
+【Annotation】good graph on the structure of notes
